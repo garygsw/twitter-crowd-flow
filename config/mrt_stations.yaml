@@ -1,0 +1,1132 @@
+# Specify a configuration list for each topic's search parameters
+# Format:
+# topic_config:
+#   <topic name>
+#       <source name>
+#           <search parameter name(s)>
+#               <search parameter(s)>
+# Targetted Twitter transportion users
+# LTA Traffic News:
+#     type: username
+#     key: LTAtrafficnews
+    # Twitter:
+    #     user_id: 4291685673  # LTAtrafficnews
+SBS Transit:
+    username: SBSTransit_Ltd
+    # Twitter:
+    #     user_id: 3087502272  # SBSTransit_Ltd
+SMRT:
+    username: SMRT_Singapore
+    # Twitter:
+    #     user_id: 307781209  # SMRT_Singapore
+# Mine:
+#     Twitter:
+#         user_id: 128107501  # test
+
+# North-South Line (Red)
+Jurong East MRT Station:
+    keywords:
+            - Jurong East
+            # - JE MRT
+            # - 裕廊东地铁
+    line:
+        - North-South
+        - East-West
+Bukit Batok MRT Station:
+    keywords:
+            - Bukit Batok
+            # - Batok MRT
+            # - 武吉巴督地铁
+    line:
+        - North-South
+Bukit Gombak MRT Station:
+    keywords:
+            - Bukit Gombak
+            # - Gombak MRT
+            # - 武吉甘柏地铁
+    line:
+        - North-South
+Choa Chu Kang MRT Station:
+    keywords:
+            - Choa Chu Kang
+            - Chua Chu Kang
+            # - CCK
+            # - 蔡厝港地铁
+    line:
+        - North-South
+Yew Tee MRT Station:
+    keywords:
+            - Yew Tee
+            # - 油池地铁
+    line:
+        - North-South
+Kranji MRT Station:
+    keywords:
+            - Kranji MRT
+            - Kranji Stn
+            - Kranji Station
+            # - 克兰芝地铁
+    line:
+        - North-South
+Marsiling MRT Station:
+    keywords:
+            - Marsiling
+            # - 马西岭地铁
+    line:
+        - North-South
+Woodlands MRT Station:
+    keywords:
+            - Woodlands MRT
+            - Woodlands Stn
+            - Woodlands Station
+            # - 兀兰地铁
+    line:
+        - North-South
+Admiralty MRT Station:
+    keywords:
+            - Admiralty MRT
+            # - 海军部地铁
+    line:
+        - North-South
+    # difficult to differentiate with Hong Kong's
+Sembawang MRT Station:
+    keywords:
+            - Sembawang
+            # - 三巴旺地铁
+    line:
+        - North-South
+Canberra MRT Station:
+    keywords:
+            - Canberra MRT
+            # - 坎贝拉地铁
+    line:
+        - North-South
+    # difficult to differentiate with Australia's
+Yishun MRT Station:
+    keywords:
+            - Yishun
+            # - 义顺地铁
+    line:
+        - North-South
+Khatib MRT Station:
+    keywords:
+            - Khatib MRT
+            - Khatib Stn
+            - Khatib Station
+            # - 卡迪地铁
+    line:
+        - North-South
+Yio Chu Kang MRT Station:
+    keywords:
+            - Yio Chu Kang
+            # - YCK MRT
+            # - 杨厝港地铁
+    line:
+        - North-South
+Ang Mo Kio MRT Station:
+    keywords:
+            - Ang Mo Kio
+            # - AMK MRT
+            # - 宏茂桥地铁
+    line:
+        - North-South
+Bishan MRT Station:
+    keywords:
+            - Bishan
+            # - 碧山地铁
+    line:
+        - North-South
+        - Circle
+Braddell MRT Station:
+    keywords:
+            - Braddell MRT
+            - Braddell Stn
+            - Braddell Station
+            # - 布莱德地铁
+    line:
+        - North-South
+Toa Payoh MRT Station:
+    keywords:
+            - Toa Payoh
+            # - 大巴窑地铁
+    line:
+        - North-South
+Novena MRT Station:
+    keywords:
+            - Novena MRT
+            - Novena Stn
+            - Novena Station
+            # - 诺维娜地铁
+    line:
+        - North-South
+Newton MRT Station:
+    keywords:
+            - Newton MRT
+            # - 纽顿地铁
+    line:
+        - North-South
+        - Downtown
+    # difficult to localize
+Orchard MRT Station:
+    keywords:
+            - Orchard MRT
+            # - 乌节地铁
+    line:
+        - North-South
+    # difficult to localize
+Somerset MRT Station:
+    keywords:
+            - Somerset MRT
+            # - 索美塞地铁
+    line:
+        - North-South
+    # difficult to localize
+Dhoby Ghaut MRT Station:
+    keywords:
+            - Dhoby Ghaut
+            # - 多美歌地铁
+    line:
+        - North-South
+        - North-East
+        - Circle
+City Hall MRT Station:
+    keywords:
+            - City Hall MRT
+            # - 政府大厦地铁
+    line:
+        - North-South
+        - East-West
+    # difficult to localize
+Raffles Place MRT Station:
+    keywords:
+            - Raffles Place
+            # - Raffles MRT
+            # - 莱佛士坊地铁
+    line:
+        - North-South
+        - East-West
+Marina Bay MRT Station:
+    keywords:
+            - Marina Bay MRT
+            - Marina Bay Stn
+            - Marina Bay Station
+            # - Marina MRT
+            # - 滨海湾地铁
+    line:
+        - North-South
+Marina South Pier MRT Station:
+    keywords:
+            - Marina South Pier
+            # - 滨海南码头地铁
+    line:
+        - North-South
+# East-West Line (Green)
+Pasir Ris MRT Station:
+    keywords:
+            - Pasir Ris
+            # - 巴西立地铁
+    line:
+        - East-West
+Tampines MRT Station:
+    keywords:
+            - Tampines
+            # - 淡滨尼地铁
+    line:
+        - East-West
+        - Downtown
+Simei MRT Station:
+    keywords:
+            - Simei
+            # - 四美地铁
+    line:
+        - East-West
+Tanah Merah MRT Station:
+    keywords:
+            - Tanah Merah
+            # - 丹那美拉地铁
+    line:
+        - East-West
+Bedok MRT Station:
+    keywords:
+            - Bedok
+            # - 勿洛地铁
+    line:
+        - East-West
+Kembangan MRT Station:
+    keywords:
+            - Kembanagan
+            # - 景万岸地铁
+    line:
+        - East-West
+Eunos MRT Station:
+    keywords:
+            - Eunos MRT
+            - Eunos Stn
+            - Eunos Station
+            # - 友诺士地铁
+    line:
+        - East-West
+Paya Lebar MRT Station:
+    keywords:
+            - Paya Lebar
+            # - 巴耶利峇地铁
+    line:
+        - East-West
+        - Circle
+Aljunied MRT Station:
+    keywords:
+            - Aljunied
+            # - 阿裕尼地铁
+    line:
+        - East-West
+Kallang MRT Station:
+    keywords:
+            - Kallang
+            # - 加冷地铁
+    line:
+        - East-West
+Lavender MRT Station:
+    keywords:
+            - Lavender MRT
+            # - 劳明达地铁
+    line:
+        - East-West
+    # difficult to localize
+Bugis MRT Station:
+    keywords:
+            - Bugis MRT
+            - Bugis Stn
+            - Bugis Station
+            # - 武吉士地铁
+    line:
+        - East-West
+        - Downtown
+Tanjong Pagar MRT Station:
+    keywords:
+            - Tanjong Pagar
+            # - 丹戎巴葛地铁
+    line:
+        - East-West
+Outram Park MRT Station:
+    keywords:
+            - Outram Park
+            # - 欧南园地铁
+    line:
+        - East-West
+        - Northeast
+Tiong Bahru MRT Station:
+    keywords:
+            - Tiong Bahru
+            # - 中峇鲁地铁
+    line:
+        - East-West
+Redhill MRT Station:
+    keywords:
+            - Redhill MRT
+            # - 红山地铁
+    line:
+        - East-West
+    # difficult to differentiates from UK's
+Queenstown MRT Station:
+    keywords:
+            - Queenstown MRT
+            # - 女皇镇地铁
+    line:
+        - East-West
+    # difficult to localize
+Commonwealth MRT Station:
+    keywords:
+            - Commonwealth MRT
+            # - 联邦地铁
+    line:
+        - East-West
+    # difficult to localize
+Buona Vista MRT Station:
+    keywords:
+            - Buona Vista
+            # - 波那维斯达地铁
+    line:
+        - East-West
+        - Circle
+Dover MRT Station:
+    keywords:
+            - Dover MRT
+            # - 杜弗地铁
+    line:
+        - East-West
+    # difficult to localize
+Clementi MRT Station:
+    keywords:
+            - Clementi MRT
+            - Clementi Stn
+            - Clementi Station
+            # - 金文泰地铁
+    line:
+        - East-West
+Chinese Garden MRT Station:
+    keywords:
+            - Chinese Garden MRT
+            - Chinese Garden Stn
+            - Chinese Garden Station
+            # - 裕华园地铁
+    line:
+        - East-West
+Lakeside MRT Station:
+    keywords:
+            - Lakeside MRT
+            # - 湖畔地铁
+    line:
+        - East-West
+    # difficult to localize
+Boon Lay MRT Station:
+    keywords:
+            - Boon Lay
+            # - 文礼地铁
+    line:
+        - East-West
+Pioneer MRT Station:
+    keywords:
+            - Pionner MRT
+            # - 先驱地铁
+    line:
+        - East-West
+    # difficult to localize
+Joo Koon MRT Station:
+    keywords:
+            - Joo Koon
+            # - 裕群地铁
+    line:
+        - East-West
+Gul Circle MRT Station:
+    keywords:
+            - Gul Circle
+            # - 卡尔圈地铁
+    line:
+        - East-West
+Tuas Crescent MRT Station:
+    keywords:
+            - Tuas Crescent
+            # - 大士弯地铁
+    line:
+        - East-West
+Tuas West Road MRT Station:
+    keywords:
+            - Tuas West Road
+            # - 大士西路地铁
+    line:
+        - East-West
+Tuas Link MRT Station:
+    keywords:
+            - Tuas Link
+            # - 大士连路地铁
+    line:
+        - East-West
+Expo MRT Station:
+    keywords:
+            - Expo MRT
+            # - 博览地铁
+    line:
+        - East-West
+        - Downtown
+Changi Airport MRT Station:
+    keywords:
+            - Changi Airport
+            # - 樟宜机场地铁
+    line:
+        - East-West
+# North-East Line (Purple)
+HarbourFront MRT Station:
+    keywords:
+            - HarborFront MRT
+            - HarborFront Stn
+            - HarborFront Station
+            # - 港湾地铁
+            # Harbor will also collect Harbour
+    line:
+        - North-East
+    # difficult to localize
+Chinatown MRT Station:
+    keywords:
+            - Chinatown MRT
+            # - 牛车水地铁
+    line:
+        - North-East
+        - Downtown
+
+Clarke Quay MRT Station:
+    keywords:
+            - Clarke Quay
+            # - 克拉码头地铁
+    line:
+        - North-East
+Little India MRT Station:
+    keywords:
+            - Little India MRT
+            - Little India Stn
+            - Little India Station
+            # - 小印度地铁
+    line:
+        - North-East
+        - Downtown
+Farrer Park MRT Station:
+    keywords:
+            - Farrer Park MRT
+            - Farrer Park Stn
+            - Farrer Park Station
+            # - 花拉公园地铁
+    line:
+        - North-East
+Boon Keng MRT Station:
+    keywords:
+            - Boon Keng MRT
+            - Boon Keng Stn
+            - Boon Keng Station
+            # - 文庆地铁
+    line:
+        - North-East
+Potong Pasir MRT Station:
+    keywords:
+            - Potong Pasir
+            # - 波东巴西地铁
+    line:
+        - North-East
+Woodleigh MRT Station:
+    keywords:
+            - Woodleigh MRT
+            - Woodleigh Stn
+            - Woodleigh Station
+            # - 兀里地铁
+    line:
+        - North-East
+Serangoon MRT Station:
+    keywords:
+            - Serangoon
+            # - 实龙岗地铁
+    line:
+        - North-East
+        - Circle
+Kovan MRT Station:
+    keywords:
+            - Kovan MRT
+            - Kovan Stn
+            - Kovan Station
+            # - 高文地铁
+    line:
+        - North-East
+Hougang MRT Station:
+    keywords:
+            - Hougang
+            # - 后港地铁
+    line:
+        - North-East
+Buangkok MRT Station:
+    keywords:
+            - Buangkok MRT
+            # - 万国地铁
+    line:
+        - North-East
+    active: False
+    # too similar to bangkok difficult to localize
+Sengkang MRT Station:
+    keywords:
+            - Sengkang MRT
+            - Sengkang Stn
+            - Sengkang Station
+            # - 盛港地铁
+    line:
+        - North-East
+Punggol MRT Station:
+    keywords:
+            - Punggol
+            # - 榜鹅地铁
+    line:
+        - North-East
+# Circle Line (Yellow)
+Bras Basah MRT Station:
+    keywords:
+            - Bras Basah
+            # - 百胜地铁
+    line:
+        - Circle
+Esplanade MRT Station:
+    keywords:
+            - Esplanade MRT
+            # - 滨海中心地铁
+    line:
+        - Circle
+    # difficult to localize
+Promenade MRT Station:
+    keywords:
+            - Promenade MRT
+            # - 宝门廊地铁
+    line:
+        - Circle
+        - Downtown
+    # difficult to localize
+Nicoll Highway MRT Station:
+    keywords:
+            - Nicoll Highway
+            # - 尼诰大道地铁
+    line:
+        - Circle
+Stadium MRT Station:
+    keywords:
+            - Stadium MRT
+            # - 体育场地铁
+    line:
+        - Circle
+    # difficult to localize
+Mountbatten MRT Station:
+    keywords:
+            - Mountbatten MRT
+            - Mount Batten MRT
+            # - 蒙巴登地铁
+    line:
+        - Circle
+    # difficult to localize
+Dakota MRT Station:
+    keywords:
+            - Dakota MRT
+            # - 达科达地铁
+    line:
+        - Circle
+    # difficult to differentiate from Canada's
+MacPherson MRT Station:
+    keywords:
+            - MacPherson MRT
+            - MacPherson Stn
+            - Mac Pherson MRT
+            # - 麦波申地铁
+    line:
+        - Circle
+        - Downtown
+    # difficult to differentiate from UK's
+Tai Seng MRT Station:
+    keywords:
+            - Tai Seng MRT
+            - Tai Seng Stn
+            - Tai Seng Station
+            # - 大成地铁
+    line:
+        - Circle
+Bartley MRT Station:
+    keywords:
+            - Bartley MRT
+            # - 巴特礼地铁
+    line:
+        - Circle
+    # difficult to localize
+Lorong Chuan MRT Station:
+    keywords:
+            - Lorong Chuan
+            # - 罗弄泉地铁
+    line:
+        - Circle
+Marymount MRT Station:
+    keywords:
+            - Marymount MRT
+            - Marymount Stn
+            - Marymount Station
+            # - 玛丽蒙地铁
+    line:
+        - Circle
+Caldescott MRT Station:
+    keywords:
+            - Caldescott
+            # - 加利谷地铁
+    line:
+        - Circle
+Bukit Brown MRT Station:
+    keywords:
+            - Bukit Brown
+            # - 武吉布朗地铁
+    line:
+        - Circle
+Botanic Gardens MRT Station:
+    keywords:
+            - Botanic Gardens MRT
+            - Botanical Gardens MRT
+            # - 植物园地铁
+    line:
+        - Circle
+        - Downtown
+    # difficult to localize
+Farrer Road MRT Station:
+    keywords:
+            - Farrer Road
+            # - 花拉路地铁
+    line:
+        - Circle
+Holland Village MRT Station:
+    keywords:
+            - Holland Village MRT
+            - Holland Village Stn
+            - Holland V MRT
+            - Holland V Stn
+            # - 荷兰村地铁
+    line:
+        - Circle
+    # difficult to differentiate with Holland's
+one-north MRT Station:
+    keywords:
+            - one-north
+            # - 纬壹地铁
+    line:
+        - Circle
+Kent Ridge MRT Station:
+    keywords:
+            - Kent Ridge
+            # - 肯特岗地铁
+    line:
+        - Circle
+Haw Par Villa MRT Station:
+    keywords:
+            - Haw Par Villa
+            # - 虎豹别墅地铁
+    line:
+        - Circle
+Pasir Panjang MRT Station:
+    keywords:
+            - Pasir Panjang MRT
+            - Pasir Panjang Stn
+            - Pasir Panjang Station
+            # - 巴西班让地铁
+    line:
+        - Circle
+Labrador Park MRT Station:
+    keywords:
+            - Labrador Park MRT
+            - Labrador Park Stn
+            - Labrador Park Station
+            # - 拉柏多公园地铁
+    line:
+        - Circle
+Telok Blangah MRT Station:
+    keywords:
+            - Telok Blangah
+            # - 直落布兰雅地铁
+    line:
+        - Circle
+Keppel MRT Station:
+    keywords:
+            - Keppel MRT
+            - Keppel Stn
+            - Keppel station
+            # - 岌巴地铁
+    line:
+        - Circle
+    active: False
+Cantonment MRT Station:
+    keywords:
+            - Cantonment MRT
+            # - 广东民地铁
+    line:
+        - Circle
+    active: False
+Prince Edward MRT Station:
+    keywords:
+            - Prince Edward MRT
+            # - 爱德华太子地铁
+    line:
+        - Circle
+    active: False
+Bayfront MRT Station:
+    keywords:
+            - Bayfront MRT
+            - Bayfront Stn
+            # - 海湾舫地铁
+    line:
+        - Circle
+    # difficult to localize
+# Downtown Line (Blue)
+Bukit Panjang MRT Station:
+    keywords:
+            - Bukit Panjang
+            # - 武吉班让地铁
+    line:
+        - Downtown
+Cashew MRT Station:
+    keywords:
+            - Cashew MRT
+            # - 凯秀地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+    # too difficult to localize
+Hillview MRT Station:
+    keywords:
+            - Hillview MRT
+            # - 山景地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+    # too difficult to localize
+Beauty World MRT Station:
+    keywords:
+            - Beauty World MRT
+            # - 美世界地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+    # too difficult to localize
+King Albert Park MRT Station:
+    keywords:
+            - King Albert Park
+            # - KAP MRT
+            # - 阿尔柏王园地铁
+    line:
+        - Downtown
+Sixth Avenue MRT Station:
+    keywords:
+            - Sixth Avenue MRT
+            # - 第六道地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+    # too difficult to localize
+Tan Kah Kee MRT Station:
+    keywords:
+            - Tan Kah Kee MRT
+            - Tan Kah Kee Stn
+            - Tan Kah Kee Station
+            # - 陈嘉庚地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Stevens MRT Station:
+    keywords:
+            - Stevens MRT
+            - Stevens Stn
+            - Stevens Station
+            # - 史蒂芬地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+    # too difficult to localize
+Rochor MRT Station:
+    keywords:
+            - Rochor
+            # - 梧槽地铁
+    line:
+        - Downtown
+Downtown MRT Station:
+    keywords:
+            - Downtown MRT
+            # - 市中心地铁
+    line:
+        - Downtown
+    active: False
+    # too difficult to localize
+Telok Ayer MRT Station:
+    keywords:
+            - Telok Ayer
+            # - 直落亚逸地铁
+    line:
+        - Downtown
+Fort Canning MRT Station:
+    keywords:
+            - Fort Canning
+            # - 福康宁地铁
+    line:
+        - Downtown
+Bencoolen MRT Station:
+    keywords:
+            - Bencoolen MRT
+            - Bencoolen Stn
+            - Bencoolen Station
+            # - 明古连地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Jalan Besar MRT Station:
+    keywords:
+            - Jalan Besar
+            # - 惹兰勿刹地铁
+    line:
+        - Downtown
+Bendemeer MRT Station:
+    keywords:
+            - Bendemeer MRT
+            - Bendemeer Stn
+            - Bendemeer Station
+            # - 明地迷亚地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Geylang Bahru MRT Station:
+    keywords:
+            - Geylang Bahru
+            # - 芽笼巴鲁地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Mattar MRT Station:
+    keywords:
+            - Mattar MRT
+            # - 玛达地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Ubi MRT Station:
+    keywords:
+            - Ubi MRT
+            # - 乌美地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Kaki Bukit MRT Station:
+    keywords:
+            - Kaki Bukit MRT
+            - Kaki Bukit Stn
+            - Kaki Bukit Station
+            # - 加基武吉地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Bedok North MRT Station:
+    keywords:
+            - Bedok North
+            # - 勿洛北地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Bedok Reservoir MRT Station:
+    keywords:
+            - Bedok Reservoir
+            # - 勿洛蓄水池地铁
+    line:
+        - Downtown
+Tampines West MRT Station:
+    keywords:
+            - Tampines West
+            # - 淡滨尼西地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Tampines East MRT Station:
+    keywords:
+            - Tampines East
+            # - 淡滨尼东地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Upper Changi MRT Station:
+    keywords:
+            - Upper Changi
+            # - 樟宜路上段地铁
+    line:
+        - Downtown
+Xilin MRT Station:
+    keywords:
+            - Xilin MRT
+            # - 锡林地铁
+    line:
+        - Downtown
+    active: False
+    # open later
+Sungei Bedok MRT Station:
+    keywords:
+            - Sungei Bedok
+            # - 双溪勿洛地铁
+    line:
+        - Downtown
+# Thomson-East Coast Line (Brown)
+Woodlands North MRT Station:
+    keywords:
+            - Woodlands North MRT
+            # - 兀兰北地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Woodlands South MRT Station:
+    keywords:
+            - Woodlands South MRT
+            # - 兀兰南地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Springleaf MRT Station:
+    keywords:
+            - Springleaf MRT
+            # - 春叶地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Lentor MRT Station:
+    keywords:
+            - Lentor MRT
+            # - 伦多地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Mayflower MRT Station:
+    keywords:
+            - Mayflower MRT
+            # - 美华地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Bright Hill MRT Station:
+    keywords:
+            - Bright Hill MRT
+            # - 光明山地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Upper Thomson MRT Station:
+    keywords:
+            - Upper Thomson
+            # - 汤申路上段地铁
+    line:
+        - Thomson-East
+Mount Pleasant MRT Station:
+    keywords:
+            - Mount Pleasant MRT
+            # - 快乐山地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Napier MRT Station:
+    keywords:
+            - Napier MRT
+            # - 纳比雅地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Orchard Boulevard MRT Station:
+    keywords:
+            - Orchard Boulevard MRT
+            # - 乌节林荫道地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Great World MRT Station:
+    keywords:
+            - Great World MRT
+            # - 大世界地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Havelock MRT Station:
+    keywords:
+            - Havelock MRT
+            # - 合乐地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Maxwell MRT Station:
+    keywords:
+            - Maxwell MRT
+            # - 麦士威地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Shenton Way MRT Station:
+    keywords:
+            - Shenton Way
+            # - 珊顿道地铁
+    line:
+        - Thomson-East
+Marina South MRT Station:
+    keywords:
+            - Marina South MRT
+            # - 滨海南地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Gardens by the Bay MRT Station:
+    keywords:
+            - Gardens by the Bay
+            # - 滨海湾花园地铁
+    line:
+        - Thomson-East
+Tanjong Rhu MRT Station:
+    keywords:
+            - Tanjong Rhu
+            # - 丹戎禺地铁
+    line:
+        - Thomson-East
+Katong Park MRT Station:
+    keywords:
+            - Katong Park MRT
+            - Katong Park Stn
+            - Katong Park Station
+            # - 加东公园地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Tanjong Katong MRT Station:
+    keywords:
+            - Tanjong Katong
+            # - 丹戎加东地铁
+    line:
+        - Thomson-East
+Marine Parade MRT Station:
+    keywords:
+            - Marine Parade MRT
+            - Marine Parade Stn
+            - Marine Parade Station
+            # - 马林百列地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Marine Terrace MRT Station:
+    keywords:
+            - Marine Terrace MRT
+            # - 马林台地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Siglap MRT Station:
+    keywords:
+            - Siglap
+            # - 实乞纳地铁
+    line:
+        - Thomson-East
+Bayshore MRT Station:
+    keywords:
+            - Bayshore MRT
+            # - 碧湾地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later
+Bedok South MRT Station:
+    keywords:
+            - Bedok South MRT
+            #- 勿洛南地铁
+    line:
+        - Thomson-East
+    active: False
+    # open later

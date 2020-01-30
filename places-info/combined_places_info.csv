@@ -1,0 +1,370 @@
+name,latitude,longitude,x_grid,y_grid
+tan tock seng,1.321538,103.846066,49,31
+changi general hospital,1.340711,103.94935,72,27
+mount elizabeth hospital,1.305436,103.83555,47,35
+east shore hospital,1.315095,103.908989,63,33
+jurong medical centre,1.340519,103.704518,18,27
+kk women's and children's hospital,1.31056,103.846871,49,34
+ren ci hospital,1.322936,103.845941,49,31
+khoo teck puat,1.424034,103.8384,47,8
+national university hospital,1.294373,103.7834,35,37
+gleneagles hospital,1.30763,103.82016,43,34
+bright vision hospital,1.371764,103.877938,56,20
+st andrew's community hospital,1.341619,103.948827,71,27
+singapore general hospital,1.282769,103.836174,47,40
+institute of mental health,1.382913,103.884897,57,18
+mount elizabeth novena hospital,1.321958,103.844649,49,31
+national neuroscience institute,1.321731,103.845645,49,31
+kwong wai shiu,1.317185,103.85939,52,32
+mount alvernia hospital,1.341499,103.83762,47,27
+thomson medical centre,1.325301,103.84138,48,30
+sata commhealth,1.32804,103.921395,65,30
+clementi polyclinic,1.312628,103.765727,31,33
+pasir ris polyclinic,1.368417,103.959267,74,21
+singapore red cross society,1.297227,103.844468,48,36
+assisi hospice,1.342088,103.838382,47,27
+rochor beancurd house,1.326353,103.848472,49,30
+chong pang food,1.428611,103.826551,45,7
+lau pa sat,1.280508,103.850528,50,40
+hard rock cafe sentosa,1.257182,103.820083,43,45
+everton food place,1.277095,103.839321,47,41
+newton food centre,1.312062,103.839451,47,33
+strictly pancakes,1.299644,103.849743,50,36
+chomp chomp food centre,1.36427,103.866454,53,22
+wave house sentosa,1.25461,103.813698,42,46
+chinatown food street,1.282431,103.843775,48,40
+dempsey hill,1.304041,103.810042,41,35
+paragon shopping centre,1.304185,103.836085,47,35
+victoria concert hall,1.288275,103.851629,50,38
+bugis street,1.300295,103.854889,51,36
+southpoint singapore,1.27358,103.841425,48,42
+marina bay financial centre,1.281703,103.85273,50,40
+singapore mint coin gallery,1.325267,103.739585,25,30
+sph media centre,1.309448,103.77447,33,34
+changi sailing club,1.392248,103.979863,78,16
+keppel club,1.266858,103.807512,40,43
+changi beach club,1.390828,103.9752,77,16
+singapore soka association,1.348107,103.935714,69,25
+coronation plaza,1.323819,103.809993,41,31
+balestier plaza,1.32575,103.850342,50,30
+balestier,1.322834,103.852334,50,31
+qian hu fish farm,1.385319,103.721868,22,17
+raffles xchange,1.284241,103.85147,50,39
+oub centre,1.284554,103.851332,50,39
+teletech park,1.286914,103.781825,35,39
+jurong frog farm,1.435578,103.717103,20,6
+bollywood veggies,1.418425,103.716613,20,10
+school of the arts singapore,1.299168,103.848656,49,36
+nanyang girls' high school,1.330658,103.802067,39,29
+singapore sports school,1.426615,103.789363,36,8
+raffles girls' school,1.311933,103.828989,45,33
+singapore chinese girls' school,1.320923,103.82751,45,31
+st. andrew's junior school,1.331174,103.865801,53,29
+ngee ann polytechnic,1.332948,103.77751,34,29
+hwa chong institution,1.326306,103.80378,40,30
+insead singapore,1.299522,103.786425,36,36
+national university of singapore,1.29412,103.78106,35,37
+serangoon junior college,1.36508,103.887113,58,22
+nanyang polytechnic,1.379534,103.849304,50,18
+nanyang junior college,1.349996,103.86529,53,25
+temasek polytechnic,1.345315,103.93182,68,26
+anglo chinese junior college,1.303077,103.785574,36,35
+bukit batok driving centre,1.367074,103.75024,28,21
+duke nus,1.28128,103.833936,46,40
+home team academy,1.371947,103.720856,21,20
+alkaff mansion,1.2789,103.81313,42,41
+universal studios singapore,1.254914,103.820134,43,46
+singapore management university,1.296553,103.850144,50,37
+safra toa payoh,1.33022,103.854513,51,29
+east coast lagoon food village,1.306906,103.934935,68,34
+farmart centre,1.382777,103.726163,22,18
+tanjong beach club,1.243171,103.827942,45,48
+bukit panjang plaza,1.380059,103.764224,31,18
+haji lane,1.300923,103.858936,52,36
+singapore flyer,1.289798,103.86365,53,38
+fountain of wealth,1.294799,103.85892,52,37
+serangoon stadium,1.355723,103.874522,55,24
+one raffles quay,1.281445,103.851932,50,40
+changi business park,1.337692,103.964624,75,28
+jurong logistics hub,1.313581,103.719741,21,33
+woodlands swimming complex,1.434846,103.779222,34,6
+st. andrew's junior college,1.333082,103.863568,53,29
+bukit batok swimming complex,1.344633,103.748541,27,26
+orchard plaza,1.301081,103.841065,48,36
+keppel bay tower,1.265014,103.818318,43,44
+hougang stadium,1.369484,103.886264,58,21
+sun yat sen nanyang memorial hall,1.327801,103.84684,49,30
+tripleone somerset,1.300383,103.837331,47,36
+pasir panjang ferry terminal,1.270019,103.79582,38,42
+ion orchard,1.30433,103.831737,46,35
+hougang mall,1.372517,103.893816,59,20
+tampines mall,1.352696,103.944782,71,24
+313 somerset,1.301007,103.838492,47,36
+bugis junction,1.299601,103.855448,51,36
+paragon singapore,1.303845,103.835852,47,35
+ngee ann city,1.302913,103.83469,46,35
+tanglin mall,1.305034,103.823774,44,35
+suntec city mall,1.295392,103.859063,52,37
+cathay cineleisure,1.301513,103.836334,47,36
+amk hub,1.369341,103.84852,49,21
+nex singapore,1.350814,103.872767,55,25
+jurong point,1.339685,103.706612,18,27
+tiong bahru plaza,1.286337,103.82711,45,39
+clarke quay central,1.289118,103.84677,49,38
+lucky plaza,1.304518,103.83399,46,35
+chijmes singapore,1.295225,103.852,50,37
+imm building,1.334943,103.746748,27,28
+citylink mall,1.292156,103.855724,51,38
+millenia walk,1.292462,103.859601,52,38
+orchard central,1.300826,103.839782,47,36
+wisma atria,1.303792,103.83318,46,35
+queensway shopping centre,1.287485,103.803515,39,39
+raffles city shopping centre,1.294028,103.853117,50,37
+wheelock place,1.304662,103.83066,45,35
+tanglin shopping centre,1.306439,103.827016,45,34
+marina square,1.29129,103.857724,51,38
+112 katong,1.3052458,103.9050356,62,35
+asian civilisations museum,1.2874969,103.8513861,50,39
+capitol theatre singapore,1.29351,103.8513178,50,37
+marina bay sands,1.2839431,103.8609341,52,39
+hong lim park,1.2865428,103.8458908,49,39
+singapore indoor stadium,1.3006291,103.874354,55,36
+max atria,1.3332953,103.9567683,73,29
+bedok stadium,1.3265123,103.9393749,69,30
+choa chu kang stadium,1.3909869,103.7486764,27,16
+helix bridge,1.2876834,103.8605974,52,39
+bishan stadium,1.355076,103.851273,50,24
+jalan besar stadium,1.309662,103.8600859,52,34
+lower seletar reservoir,1.4050778,103.8433641,48,13
+woodlands stadium,1.4345616,103.7808204,34,6
+marina barrage,1.2805281,103.8711746,54,40
+woodlands town garden,1.4381215,103.7705687,32,5
+clementi stadium,1.3097867,103.762521,30,34
+resorts world sentosa,1.255179,103.8218107,44,46
+henderson waves,1.2760208,103.8153941,42,41
+east coast park,1.3007842,103.9121866,63,36
+sungei buloh wetland reserve,1.4467195,103.7301489,23,3
+the southern ridges,1.2801016,103.8029949,39,40
+sota concert hall,1.298907,103.84871,49,36
+upper seletar reservoir,1.3988664,103.7959574,38,14
+jurong stadium,1.3331861,103.7192966,21,29
+punggol park,1.3769623,103.8985194,60,19
+leisure park kallang,1.3021872,103.8765059,56,35
+tampines stadium,1.3532213,103.9403757,70,24
+tekka centre,1.306251,103.850654,50,34
+siloso beach,1.25425,103.81476,42,46
+singapore conference hall,1.2762062,103.8489829,49,41
+plaza singapura,1.3005239,103.84503,49,36
+jurong east stadium,1.3467156,103.7299383,23,26
+ang mo kio town garden west,1.3743925,103.8448705,49,19
+clementi woods park,1.3016586,103.7667196,31,36
+yio chu kang stadium,1.3827108,103.8465839,49,18
+causeway point,1.4359844,103.7860127,36,6
+madame tussauds singapore,1.2538878,103.8176412,43,46
+ang mo kio town garden east,1.3707346,103.8502485,50,20
+pasir ris town park,1.3733023,103.9523953,72,20
+upper peirce reservoir,1.3743377,103.8111331,41,19
+merlion park,1.2867892,103.8545014,51,39
+west coast park,1.2918978,103.7657869,31,38
+boat quay,1.2859963,103.8501608,50,39
+sim lim square,1.303043,103.852921,50,35
+kent ridge park,1.2838852,103.7912945,37,39
+university cultural centre,1.3018212,103.7722354,33,35
+palawan beach,1.2482777,103.8225374,44,47
+esplanade theatre,1.289831,103.855827,51,38
+mount faber park,1.2737864,103.8174964,43,42
+lower peirce reservoir,1.3700154,103.8230752,44,20
+lee foundation theatre,1.3011445,103.851901,50,36
+kallang wave mall,1.3031838,103.8728625,55,35
+singapore discovery centre,1.3326904,103.6789432,12,29
+zepp@bigbox,1.3318799,103.7448812,27,29
+artscience museum,1.2862738,103.8592663,52,39
+changi beach park,1.3909433,103.9920554,81,16
+jurong lake,1.3418479,103.7281926,23,27
+bedok reservoir,1.3413025,103.9245499,66,27
+jurong bird park,1.3187065,103.7064417,18,32
+toa payoh stadium,1.3303137,103.8529676,50,29
+bukit timah hill,1.3548163,103.7762985,33,24
+jurong west stadium,1.338555,103.6949249,16,27
+bukit gombak stadium,1.3582504,103.7536462,29,23
+national gallery singapore,1.289704,103.851285,50,38
+telok blangah hill park,1.278877,103.813289,42,41
+singapore zoo,1.4043485,103.793023,37,13
+bedok town park,1.3349078,103.9238184,66,28
+far east plaza,1.307145,103.833646,46,34
+marina bay floating platform,1.288153,103.859028,52,38
+singapore national stadium,1.3043297,103.8743375,55,35
+national museum of singapore,1.2966375,103.8486646,49,37
+bedok mall,1.3243582,103.9286897,67,30
+hortpark,1.2787362,103.8018322,39,41
+bukit batok nature park,1.3484689,103.7639114,31,25
+maritime experiential museum & aquarium,1.2582411,103.8205111,43,45
+tanjong beach,1.243299,103.828128,45,48
+s.e.a aquarium,1.258369,103.82047,43,45
+istana,1.306996,103.8430853,48,34
+yishun stadium,1.4117246,103.8312597,46,11
+dairy farm nature park,1.3618794,103.7753145,33,22
+singapore art museum,1.2973072,103.8510615,50,36
+bukit batok town park,1.3567559,103.7536228,29,23
+thian hock keng temple,1.2810871,103.8474767,49,40
+victoria theatre and concert hall,1.2883375,103.8518126,50,38
+river safari,1.4029491,103.7917411,37,13
+bishan-ang mo kio park,1.3634088,103.8435614,48,22
+macritchie reservoir,1.3447621,103.8223506,44,26
+people's park complex,1.2842974,103.8427322,48,39
+wild wild wet,1.3773814,103.9543187,73,19
+night safari,1.4021872,103.7880606,36,13
+festive grand theatre,1.2494041,103.8303209,45,47
+padang,1.2905564,103.8530438,50,38
+labrador park,1.2674872,103.801682,39,43
+malay heritage centre,1.30275,103.8600008,52,35
+raffles city convention centre,1.2939556,103.8533468,50,37
+peranakan museum,1.2943669,103.8490391,50,37
+mustafa centre,1.310116,103.855366,51,34
+star performing arts centre,1.306895,103.788483,36,34
+changi exhibition centre,1.3640239,104.0222722,88,22
+liang court,1.2915874,103.8447075,49,38
+science centre singapore,1.3332332,103.7362246,25,29
+suntec convention centre,1.2936854,103.8572793,51,37
+tanjong pagar railway station,1.272992,103.838635,47,42
+novena mrt station,1.3204301,103.8438181,48,31
+dover mrt station,1.311322,103.7786532,34,33
+ubi mrt station,1.3298687,103.900048,61,29
+boon keng mrt station,1.3198587,103.8618306,52,31
+somerset mrt station,1.3005915,103.838529,47,36
+redhill mrt station,1.2896276,103.8167623,42,38
+tanjong rhu mrt station,1.301046,103.883717,57,36
+prince edward mrt station,1.273262,103.847308,49,42
+bras basah mrt station,1.2969443,103.8507941,50,37
+nicoll highway mrt station,1.3023492,103.8656834,53,35
+beauty world mrt station,1.3416921,103.775966,33,27
+bugis mrt station,1.3010989,103.8561152,51,36
+little india mrt station,1.3062896,103.8493919,50,34
+marine parade mrt station,1.3263,103.8304146,45,30
+havelock mrt station,1.288238,103.833603,46,38
+maxwell mrt station,1.276747,103.8451151,49,41
+sengkang mrt station,1.3915277,103.8954161,60,16
+outram park mrt station,1.2814585,103.8391464,47,40
+changi airport mrt station,1.3644202,103.9915308,81,22
+upper thomson mrt station,1.3728883,103.8285113,45,20
+kembangan mrt station,1.321049,103.912909,64,31
+aljunied mrt station,1.3164325,103.882906,57,32
+pasir panjang mrt station,1.2760331,103.7919041,37,41
+bukit brown mrt station,1.3361057,103.8229846,44,28
+commonwealth mrt station,1.3024476,103.7982907,38,35
+tampines mrt station,1.3495907,103.9567879,73,25
+pasir ris mrt station,1.3720937,103.9473728,71,20
+bedok north mrt station,1.3236038,103.9273405,67,31
+tai seng mrt station,1.3359176,103.8876833,58,28
+raffles place mrt station,1.2840999,103.8513269,50,39
+khatib mrt station,1.4173489,103.8330221,46,10
+chinatown mrt station,1.2847875,103.8439312,48,39
+potong pasir mrt station,1.3311575,103.8690734,54,29
+esplanade mrt station,1.293436,103.855381,51,37
+labrador park mrt station,1.2722052,103.8024245,39,42
+pioneer mrt station,1.3373141,103.6968636,16,28
+kranji mrt station,1.4251684,103.7619192,30,8
+bartley mrt station,1.3423252,103.8802484,56,27
+jurong east mrt station,1.3328572,103.7435522,26,29
+siglap mrt station,1.313587,103.923105,66,33
+marina south pier mrt station,1.2709313,103.8634015,53,42
+lavender mrt station,1.3072265,103.862951,53,34
+bukit gombak mrt station,1.3590369,103.7518278,28,23
+clarke quay mrt station,1.2906024,103.8464742,49,38
+bedok mrt station,1.3236038,103.9273405,67,31
+tanjong katong mrt station,1.3083201,103.897576,60,34
+king albert park mrt station,1.3357575,103.7831752,35,28
+admiralty mrt station,1.4405862,103.800975,39,5
+bencoolen mrt station,1.2988643,103.8503843,50,36
+bayfront mrt station,1.2813448,103.8589484,52,40
+braddell mrt station,1.3404334,103.8468013,49,27
+farrer park mrt station,1.3124557,103.8548207,51,33
+tan kah kee mrt station,1.3253631,103.8077988,40,30
+gardens by the bay mrt station,1.2815683,103.8636132,53,40
+punggol mrt station,1.3984457,103.9072046,62,14
+kovan mrt station,1.3599937,103.8853009,57,23
+geylang bahru mrt station,1.3237331,103.8683218,54,31
+marymount mrt station,1.3485243,103.8394989,47,25
+orchard boulevard mrt station,1.3735716,103.7984607,38,20
+sungei bedok mrt station,1.3201731,103.9568273,73,31
+marina bay mrt station,1.2764274,103.8545978,51,41
+serangoon mrt station,1.3553567,103.8678708,54,24
+buangkok mrt station,1.3830715,103.8931105,59,18
+cantonment mrt station,1.272992,103.838635,47,42
+tampines west mrt station,1.3487786,103.935734,69,25
+boon lay mrt station,1.3385559,103.7058277,18,27
+bukit batok mrt station,1.3590288,103.7636796,31,23
+telok blangah mrt station,1.2706894,103.8098756,41,42
+joo koon mrt station,1.3277507,103.6783297,12,30
+yew tee mrt station,1.3973811,103.7475,27,14
+woodleigh mrt station,1.3389179,103.8704719,54,27
+hougang mrt station,1.3612182,103.8862529,58,22
+kent ridge mrt station,1.292524,103.784902,35,38
+haw par villa mrt station,1.2835657,103.7816432,35,39
+tuas link mrt station,1.3403171,103.6368663,3,27
+paya lebar mrt station,1.3516087,103.899516,61,24
+woodlands mrt station,1.436955,103.7864845,36,6
+dakota mrt station,1.3079962,103.8880879,58,34
+queenstown mrt station,1.2952659,103.8056329,40,37
+holland village mrt station,1.3111325,103.7961377,38,33
+harbourfront mrt station,1.2659167,103.8209079,43,43
+kallang mrt station,1.3100334,103.8651056,53,34
+marsiling mrt station,1.4325197,103.774119,33,7
+xilin mrt station,1.3288787,103.9648084,75,29
+buona vista mrt station,1.3073194,103.7899422,36,34
+expo mrt station,1.3352467,103.9619976,74,28
+farrer road mrt station,1.3175815,103.8077576,40,32
+lorong chuan mrt station,1.3514809,103.8646643,53,25
+stevens mrt station,1.3200527,103.8258215,44,31
+telok ayer mrt station,1.2811232,103.8478471,49,40
+lakeside mrt station,1.3442374,103.7207253,21,26
+tanah merah mrt station,1.327276,103.946541,71,30
+choa chu kang mrt station,1.3839803,103.7469611,27,17
+promenade mrt station,1.2938528,103.860021,52,37
+mountbatten mrt station,1.3061938,103.882547,57,35
+tanjong pagar mrt station,1.2764031,103.8468585,49,41
+downtown mrt station,1.279467,103.8524576,50,40
+cashew mrt station,1.3699218,103.7645493,31,20
+bishan mrt station,1.3525845,103.8352116,46,24
+tampines east mrt station,1.3533483,103.9546705,73,24
+simei mrt station,1.3399194,103.949471,72,27
+clementi mrt station,1.3151606,103.765206,31,33
+ang mo kio mrt station,1.3691149,103.8454342,49,21
+yio chu kang mrt station,1.3817576,103.8448008,49,18
+botanic gardens mrt station,1.3221102,103.8149828,42,31
+orchard mrt station,1.3045879,103.8319307,46,35
+dhoby ghaut mrt station,1.2997055,103.8454882,49,36
+caldescott mrt station,1.337691,103.839552,47,28
+bedok south mrt station,1.3240113,103.9301725,67,31
+sixth avenue mrt station,1.3312349,103.7968943,38,29
+yishun mrt station,1.430368,103.8353628,46,7
+kaki bukit mrt station,1.334927,103.909016,63,28
+woodlands north mrt station,1.4497204,103.7850973,35,3
+marine terrace mrt station,1.3263,103.8304146,45,30
+lentor mrt station,1.3842975,103.8370838,47,17
+tuas west road mrt station,1.3325802,103.6405559,4,29
+gul circle mrt station,1.319846,103.6694219,10,31
+marina south mrt station,1.2713951,103.8636337,53,42
+newton mrt station,1.3136071,103.837811,47,33
+woodlands south mrt station,1.427337,103.7932308,37,8
+stadium mrt station,1.3025028,103.8745655,55,35
+mattar mrt station,1.3272214,103.8828949,57,30
+upper changi mrt station,1.3450101,103.9832089,79,26
+canberra mrt station,1.443806,103.829185,45,4
+chinese garden mrt station,1.3423597,103.7325541,24,27
+rochor mrt station,1.3051345,103.8509134,50,35
+hillview mrt station,1.3621275,103.7670071,31,22
+eunos mrt station,1.3197777,103.9028587,61,32
+jalan besar mrt station,1.3085592,103.8573369,51,34
+tuas crescent mrt station,1.3178201,103.6396998,3,32
+tiong bahru mrt station,1.2865598,103.8247352,44,39
+shenton way mrt station,1.2757729,103.8479732,49,41
+city hall mrt station,1.2930893,103.8519267,50,37
+fort canning mrt station,1.2941149,103.8463071,49,37
+bukit panjang mrt station,1.3774142,103.7719498,33,19
+macpherson mrt station,1.3267424,103.8898817,58,30
+bedok reservoir mrt station,1.3413025,103.9245499,66,27
+sembawang mrt station,1.4491107,103.8184954,43,3
+one-north mrt station,1.299932,103.787442,36,36
+toa payoh mrt station,1.3343035,103.8563265,51,28
+bendemeer mrt station,1.3136722,103.862978,53,33

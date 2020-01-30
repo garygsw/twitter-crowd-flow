@@ -1,0 +1,135 @@
+#/bin/bash
+
+#PBS -q normal
+#PBS -l select=1:ncpus=16:mem=64GB
+#PBS -l walltime=24:00:00
+
+#PBS -N "filter_set2"
+#PBS -P Personal
+
+cd /home/users/sutd/1002045/traffic/tagger
+source venv/bin/activate 
+
+python stanford_tagger.py VDLset2 tweets_20140831.csv &> log/tweets_20140831.txt & 
+python stanford_tagger.py VDLset2 tweets_20140901.csv &> log/tweets_20140901.txt & 
+python stanford_tagger.py VDLset2 tweets_20140902.csv &> log/tweets_20140902.txt & 
+python stanford_tagger.py VDLset2 tweets_20140903.csv &> log/tweets_20140903.txt & 
+python stanford_tagger.py VDLset2 tweets_20140904.csv &> log/tweets_20140904.txt & 
+python stanford_tagger.py VDLset2 tweets_20140905.csv &> log/tweets_20140905.txt & 
+python stanford_tagger.py VDLset2 tweets_20140906.csv &> log/tweets_20140906.txt & 
+python stanford_tagger.py VDLset2 tweets_20140907.csv &> log/tweets_20140907.txt & 
+python stanford_tagger.py VDLset2 tweets_20140908.csv &> log/tweets_20140908.txt & 
+python stanford_tagger.py VDLset2 tweets_20140909.csv &> log/tweets_20140909.txt & 
+python stanford_tagger.py VDLset2 tweets_20140910.csv &> log/tweets_20140910.txt & 
+python stanford_tagger.py VDLset2 tweets_20140911.csv &> log/tweets_20140911.txt & 
+python stanford_tagger.py VDLset2 tweets_20140912.csv &> log/tweets_20140912.txt & 
+python stanford_tagger.py VDLset2 tweets_20140913.csv &> log/tweets_20140913.txt & 
+python stanford_tagger.py VDLset2 tweets_20140914.csv &> log/tweets_20140914.txt & 
+python stanford_tagger.py VDLset2 tweets_20140915.csv &> log/tweets_20140915.txt & 
+python stanford_tagger.py VDLset2 tweets_20140916.csv &> log/tweets_20140916.txt & 
+python stanford_tagger.py VDLset2 tweets_20140917.csv &> log/tweets_20140917.txt & 
+python stanford_tagger.py VDLset2 tweets_20140918.csv &> log/tweets_20140918.txt & 
+python stanford_tagger.py VDLset2 tweets_20140919.csv &> log/tweets_20140919.txt & 
+python stanford_tagger.py VDLset2 tweets_20140920.csv &> log/tweets_20140920.txt & 
+python stanford_tagger.py VDLset2 tweets_20140921.csv &> log/tweets_20140921.txt & 
+python stanford_tagger.py VDLset2 tweets_20140922.csv &> log/tweets_20140922.txt & 
+python stanford_tagger.py VDLset2 tweets_20140923.csv &> log/tweets_20140923.txt & 
+python stanford_tagger.py VDLset2 tweets_20140924.csv &> log/tweets_20140924.txt & 
+python stanford_tagger.py VDLset2 tweets_20140925.csv &> log/tweets_20140925.txt & 
+python stanford_tagger.py VDLset2 tweets_20140926.csv &> log/tweets_20140926.txt & 
+python stanford_tagger.py VDLset2 tweets_20140927.csv &> log/tweets_20140927.txt & 
+python stanford_tagger.py VDLset2 tweets_20140928.csv &> log/tweets_20140928.txt & 
+python stanford_tagger.py VDLset2 tweets_20140929.csv &> log/tweets_20140929.txt & 
+python stanford_tagger.py VDLset2 tweets_20140930.csv &> log/tweets_20140930.txt & 
+python stanford_tagger.py VDLset2 tweets_20141001.csv &> log/tweets_20141001.txt & 
+python stanford_tagger.py VDLset2 tweets_20141002.csv &> log/tweets_20141002.txt & 
+python stanford_tagger.py VDLset2 tweets_20141003.csv &> log/tweets_20141003.txt & 
+python stanford_tagger.py VDLset2 tweets_20141004.csv &> log/tweets_20141004.txt & 
+python stanford_tagger.py VDLset2 tweets_20141005.csv &> log/tweets_20141005.txt & 
+python stanford_tagger.py VDLset2 tweets_20141006.csv &> log/tweets_20141006.txt & 
+python stanford_tagger.py VDLset2 tweets_20141007.csv &> log/tweets_20141007.txt & 
+python stanford_tagger.py VDLset2 tweets_20141008.csv &> log/tweets_20141008.txt & 
+python stanford_tagger.py VDLset2 tweets_20141009.csv &> log/tweets_20141009.txt & 
+python stanford_tagger.py VDLset2 tweets_20141010.csv &> log/tweets_20141010.txt & 
+python stanford_tagger.py VDLset2 tweets_20141011.csv &> log/tweets_20141011.txt & 
+python stanford_tagger.py VDLset2 tweets_20141012.csv &> log/tweets_20141012.txt & 
+python stanford_tagger.py VDLset2 tweets_20141013.csv &> log/tweets_20141013.txt & 
+python stanford_tagger.py VDLset2 tweets_20141014.csv &> log/tweets_20141014.txt & 
+python stanford_tagger.py VDLset2 tweets_20141015.csv &> log/tweets_20141015.txt & 
+python stanford_tagger.py VDLset2 tweets_20141016.csv &> log/tweets_20141016.txt & 
+python stanford_tagger.py VDLset2 tweets_20141017.csv &> log/tweets_20141017.txt & 
+python stanford_tagger.py VDLset2 tweets_20141018.csv &> log/tweets_20141018.txt & 
+python stanford_tagger.py VDLset2 tweets_20141019.csv &> log/tweets_20141019.txt & 
+python stanford_tagger.py VDLset2 tweets_20141020.csv &> log/tweets_20141020.txt & 
+python stanford_tagger.py VDLset2 tweets_20141021.csv &> log/tweets_20141021.txt & 
+python stanford_tagger.py VDLset2 tweets_20141022.csv &> log/tweets_20141022.txt & 
+python stanford_tagger.py VDLset2 tweets_20141023.csv &> log/tweets_20141023.txt & 
+python stanford_tagger.py VDLset2 tweets_20141024.csv &> log/tweets_20141024.txt & 
+python stanford_tagger.py VDLset2 tweets_20141025.csv &> log/tweets_20141025.txt & 
+python stanford_tagger.py VDLset2 tweets_20141026.csv &> log/tweets_20141026.txt & 
+python stanford_tagger.py VDLset2 tweets_20141027.csv &> log/tweets_20141027.txt & 
+python stanford_tagger.py VDLset2 tweets_20141028.csv &> log/tweets_20141028.txt & 
+python stanford_tagger.py VDLset2 tweets_20141029.csv &> log/tweets_20141029.txt & 
+python stanford_tagger.py VDLset2 tweets_20141030.csv &> log/tweets_20141030.txt & 
+python stanford_tagger.py VDLset2 tweets_20141031.csv &> log/tweets_20141031.txt & 
+python stanford_tagger.py VDLset2 tweets_20141101.csv &> log/tweets_20141101.txt & 
+python stanford_tagger.py VDLset2 tweets_20141102.csv &> log/tweets_20141102.txt & 
+python stanford_tagger.py VDLset2 tweets_20141103.csv &> log/tweets_20141103.txt & 
+python stanford_tagger.py VDLset2 tweets_20141104.csv &> log/tweets_20141104.txt & 
+python stanford_tagger.py VDLset2 tweets_20141105.csv &> log/tweets_20141105.txt & 
+python stanford_tagger.py VDLset2 tweets_20141106.csv &> log/tweets_20141106.txt & 
+python stanford_tagger.py VDLset2 tweets_20141107.csv &> log/tweets_20141107.txt & 
+python stanford_tagger.py VDLset2 tweets_20141108.csv &> log/tweets_20141108.txt & 
+python stanford_tagger.py VDLset2 tweets_20141109.csv &> log/tweets_20141109.txt & 
+python stanford_tagger.py VDLset2 tweets_20141110.csv &> log/tweets_20141110.txt & 
+python stanford_tagger.py VDLset2 tweets_20141111.csv &> log/tweets_20141111.txt & 
+python stanford_tagger.py VDLset2 tweets_20141112.csv &> log/tweets_20141112.txt & 
+python stanford_tagger.py VDLset2 tweets_20141113.csv &> log/tweets_20141113.txt & 
+python stanford_tagger.py VDLset2 tweets_20141114.csv &> log/tweets_20141114.txt & 
+python stanford_tagger.py VDLset2 tweets_20141115.csv &> log/tweets_20141115.txt & 
+python stanford_tagger.py VDLset2 tweets_20141116.csv &> log/tweets_20141116.txt & 
+python stanford_tagger.py VDLset2 tweets_20141117.csv &> log/tweets_20141117.txt & 
+python stanford_tagger.py VDLset2 tweets_20141118.csv &> log/tweets_20141118.txt & 
+python stanford_tagger.py VDLset2 tweets_20141119.csv &> log/tweets_20141119.txt & 
+python stanford_tagger.py VDLset2 tweets_20141120.csv &> log/tweets_20141120.txt & 
+python stanford_tagger.py VDLset2 tweets_20141121.csv &> log/tweets_20141121.txt & 
+python stanford_tagger.py VDLset2 tweets_20141122.csv &> log/tweets_20141122.txt & 
+python stanford_tagger.py VDLset2 tweets_20141123.csv &> log/tweets_20141123.txt & 
+python stanford_tagger.py VDLset2 tweets_20141124.csv &> log/tweets_20141124.txt & 
+python stanford_tagger.py VDLset2 tweets_20141125.csv &> log/tweets_20141125.txt & 
+python stanford_tagger.py VDLset2 tweets_20141126.csv &> log/tweets_20141126.txt & 
+python stanford_tagger.py VDLset2 tweets_20141127.csv &> log/tweets_20141127.txt & 
+python stanford_tagger.py VDLset2 tweets_20141128.csv &> log/tweets_20141128.txt & 
+python stanford_tagger.py VDLset2 tweets_20141129.csv &> log/tweets_20141129.txt & 
+python stanford_tagger.py VDLset2 tweets_20141130.csv &> log/tweets_20141130.txt & 
+python stanford_tagger.py VDLset2 tweets_20141201.csv &> log/tweets_20141201.txt & 
+python stanford_tagger.py VDLset2 tweets_20141202.csv &> log/tweets_20141202.txt & 
+python stanford_tagger.py VDLset2 tweets_20141203.csv &> log/tweets_20141203.txt & 
+python stanford_tagger.py VDLset2 tweets_20141204.csv &> log/tweets_20141204.txt & 
+python stanford_tagger.py VDLset2 tweets_20141205.csv &> log/tweets_20141205.txt & 
+python stanford_tagger.py VDLset2 tweets_20141206.csv &> log/tweets_20141206.txt & 
+python stanford_tagger.py VDLset2 tweets_20141207.csv &> log/tweets_20141207.txt & 
+python stanford_tagger.py VDLset2 tweets_20141208.csv &> log/tweets_20141208.txt & 
+python stanford_tagger.py VDLset2 tweets_20141209.csv &> log/tweets_20141209.txt & 
+python stanford_tagger.py VDLset2 tweets_20141210.csv &> log/tweets_20141210.txt & 
+python stanford_tagger.py VDLset2 tweets_20141211.csv &> log/tweets_20141211.txt & 
+python stanford_tagger.py VDLset2 tweets_20141212.csv &> log/tweets_20141212.txt & 
+python stanford_tagger.py VDLset2 tweets_20141213.csv &> log/tweets_20141213.txt & 
+python stanford_tagger.py VDLset2 tweets_20141214.csv &> log/tweets_20141214.txt & 
+python stanford_tagger.py VDLset2 tweets_20141215.csv &> log/tweets_20141215.txt & 
+python stanford_tagger.py VDLset2 tweets_20141216.csv &> log/tweets_20141216.txt & 
+python stanford_tagger.py VDLset2 tweets_20141217.csv &> log/tweets_20141217.txt & 
+python stanford_tagger.py VDLset2 tweets_20141218.csv &> log/tweets_20141218.txt & 
+python stanford_tagger.py VDLset2 tweets_20141219.csv &> log/tweets_20141219.txt & 
+python stanford_tagger.py VDLset2 tweets_20141220.csv &> log/tweets_20141220.txt & 
+python stanford_tagger.py VDLset2 tweets_20141221.csv &> log/tweets_20141221.txt & 
+python stanford_tagger.py VDLset2 tweets_20141222.csv &> log/tweets_20141222.txt & 
+python stanford_tagger.py VDLset2 tweets_20141223.csv &> log/tweets_20141223.txt & 
+python stanford_tagger.py VDLset2 tweets_20141224.csv &> log/tweets_20141224.txt & 
+python stanford_tagger.py VDLset2 tweets_20141225.csv &> log/tweets_20141225.txt & 
+python stanford_tagger.py VDLset2 tweets_20141226.csv &> log/tweets_20141226.txt & 
+python stanford_tagger.py VDLset2 tweets_20141227.csv &> log/tweets_20141227.txt & 
+python stanford_tagger.py VDLset2 tweets_20141228.csv &> log/tweets_20141228.txt & 
+python stanford_tagger.py VDLset2 tweets_20141229.csv &> log/tweets_20141229.txt & 
+python stanford_tagger.py VDLset2 tweets_20141230.csv &> log/tweets_20141230.txt & 
+python stanford_tagger.py VDLset2 tweets_20141231.csv &> log/tweets_20141231.txt & 
